@@ -1,9 +1,10 @@
-const int trigL = 2;
+//Ultrasonic sensors pins
+const int trigL = 2; 
 const int echoL = 3;
 const int trigR = 4;
 const int echoR = 5;
 
-
+//motor driver pins
 const int in1 = 8; 
 const int in2 = 9;
 const int in3 = 10; 
