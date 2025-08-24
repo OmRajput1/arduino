@@ -8,7 +8,7 @@ Ultrasonic sensors (HC-SR04 ×2)
 DC motors ×2
 Caster wheel ×1
 Chassis
-Power supply (battery type, e.g., 9V or Li-ion pack)
+Battery (x2 8V)
 Jumper wires, breadboard
 Switch
 
